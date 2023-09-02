@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.phone-no a{
+    text-decoration: none;
+}
+.phone-no{
+    margin-right: 20px;
+}
+.phone-no a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #000000;
+    margin-left: 10px;
+}
+.navbar-expand-md .navbar-nav .nav-link{
+    color: #000000;
+}
+.navbar-toggler{
+    background: #000000;
+}
+.section-title{
+    font-size: 48px;
+    font-weight: 600;
+    color: #000000;
+}
+.tab-style{
+    margin-top: 80px;
+}
+.tab-style .nav-link{
+    border: 1px solid #5f6368;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    color: #5f6368;
+    width: 156px;
+    height: 52px;
+}
+.tab-style .nav-link.active{
+    background-color: #5f6368;
+}
+.tab-style .nav-link i{
+    color: #5f6368;
+}
+.tab-style .nav-link.active i{
+    color: #ffffff;
+}
+.tab-style .tab-content{
+    width: 100%;
+}
+.title-and-text h3{
+    font-size: 36px;
+}
+.title-and-text .d-flex i{
+    font-size: 50px;
+    color: #1a73e8;
+}
+.title-and-text .d-flex a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.tab-image{
+    width: 400px;
+    margin: auto;
+}
+.space-top-bottom-100{
+    padding: 100px 0px;
+}
+.icon-box-content i{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 30px auto;
+}
+.icon-box-content h6{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.powerof-text p{
+    font-size: 16px;
+    line-height: 30px;
+}
+.powerof-text h3{
+    font-size: 22px;
+    font-weight: 600;
+}
+.power-of-google .section-title span{
+    color: #1a73e8;
+}
+.padding-bottom100{
+    padding-bottom: 100px;
+}
+.success-looks-like{
+    background-color: #e8f0fe;
+}
