@@ -94,3 +94,136 @@ body{
 .success-looks-like{
     background-color: #e8f0fe;
 }
+.with-google-ads{
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 35px;
+}
+.video-buttons h6{
+    color: #1a73e8;
+    font-weight: 700;
+}
+.video-buttons{
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.success-looks-like .owl-carousel .owl-item img{
+    width: auto;
+}
+.owl-prev span,.owl-next span{
+    font-size: 40px;
+    margin: 0px 5px;
+}
+.blulogo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.owl-nav{
+    text-align: center;
+}
+.btn.btn-primary{
+    color: #ffffff;
+}
+.social-icon-links ul{
+    margin: 0px;
+    padding: 0px;
+}
+.social-icon-links ul li{
+    list-style: none;
+    display: inline-block;
+}
+.social-icon-links ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+}
+.follow-us{
+    color: #000000;
+    font-weight: 700;
+}
+.social-icon-links ul li{
+    margin-right: 15px;
+}
+.footer-wrapper{
+    background: #f8f9fa;
+}
+.footer-links h6{
+    color: #000000;
+    font-weight: 700;
+}
+.footer-links ul{
+    margin: 0px;
+    padding: 0px;
+}
+.footer-links ul li{
+    list-style: none;
+    line-height: 32px;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: #5f6368;
+    font-weight: 500;
+    text-decoration: none;
+}
+.footer-bottom ul{
+    margin: 0px;
+    padding: 0px;
+}
+.footer-bottom ul li{
+    color: #5f6368;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+.footer-bottom ul li a{
+    text-decoration: none;
+    color: #5f6368;
+    font-weight: 500;
+}
+@media only screen and (max-width:1199px){
+
+    .navbar-expand-md .navbar-nav .nav-link{
+        color: #000000;
+        font-size: 14px;
+    }
+    .phone-no{
+        display: none;
+    }
+}
+@media only screen and (max-width:991px){
+    
+}
+@media only screen and (max-width:767px){
+
+    .powerof-text .col-md-4{
+        text-align: center;
+    }
+    .powerof-text .col-md-8{
+        text-align: center;
+    }
+}
+@media only screen and (max-width:575px){
+
+    .section-title{
+        font-size: 35px;
+    }
+    .with-google-ads br{
+        display: none;
+    }
+    .with-google-ads{
+        font-size: 30px;
+    }
+    .space-top-bottom-100{
+        padding: 60px 0px;
+    }
+    .padding-bottom100{
+        padding-bottom: 60px;
+    }
+} 
